@@ -5,8 +5,8 @@
     <strong>The Ultimate Vehicle Resource Manager for FiveM Developers</strong>
   </p>
   <p>
-    <a href="https://5mdev.com/vehicle-editor"><img src="https://img.shields.io/badge/Status-Stable_v1.2.1-success?style=for-the-badge&logo=appveyor" alt="Status" /></a>
-    <a href="https://5mdev.com/vehicle-editor"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Platform" /></a>
+    <a href="https://5mdev.com/vehicle-editor/download"><img src="https://img.shields.io/badge/Status-Stable_v1.2.1-success?style=for-the-badge&logo=appveyor" alt="Status" /></a>
+    <a href="https://5mdev.com/vehicle-editor/download"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Platform" /></a>
     <a href="https://discord.gg/5mdev"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord" alt="Discord" /></a>
   </p>
   <p>
@@ -33,11 +33,8 @@ Developing and managing vehicle resources in FiveM can be a messy and time-consu
 
 ## 🚀 Download & Installation
 
-Vehicle Editor is an exclusive tool for the 5mdev community.
-
-1. Create a free account at [5mdev.com](https://5mdev.com)
-2. Visit the [Vehicle Editor Download Page](https://5mdev.com/vehicle-editor/download)
-3. Run the installer (Windows only).
+1. Visit the [Vehicle Editor Download Page](https://5mdev.com/vehicle-editor/download)
+2. Run the installer (Windows only).
 
 > [!NOTE]
 > *This repository serves as the public face and issue tracker for the application. The core source code is closed-source and maintained privately by the 5mdev team.*
