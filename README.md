@@ -11,6 +11,8 @@
   <p>
     <em>Edit, Merge, Optimize, and Manage your FiveM vehicle resources with unparalleled speed and professional UI.</em>
   </p>
+  <br />
+  <img src="https://5mdev.com/vehicle-editor/vehicle-meta-editor.png" alt="Vehicle Editor Interface" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
 </div>
 
 ---
