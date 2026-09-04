@@ -7,7 +7,6 @@
   <p>
     <a href="https://5mdev.com/vehicle-editor/download"><img src="https://img.shields.io/badge/Status-Stable_v1.2.1-success?style=for-the-badge&logo=appveyor" alt="Status" /></a>
     <a href="https://5mdev.com/vehicle-editor/download"><img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows" alt="Platform" /></a>
-    <a href="https://discord.gg/5mdev"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord" alt="Discord" /></a>
   </p>
   <p>
     <em>Edit, Merge, Optimize, and Manage your FiveM vehicle resources with unparalleled speed and professional UI.</em>
@@ -47,13 +46,6 @@ If you found a bug or have a brilliant idea for a new feature:
 1. Check the [Issues tab](../../issues) to see if it has already been reported.
 2. If not, open a **New Issue** and fill out the provided template.
 3. Be as detailed as possible! (Attach screenshots, error logs, or specific `.meta` files if necessary).
-
-## 💬 Community & Support
-
-Need help using the tool? Want to share your massive merged vehicle pack?
-Join our active community of developers on Discord:
-
-[![Join Discord](https://discordapp.com/api/guilds/1539651540179091597/widget.png?style=banner2)](https://discord.gg/5mdev)
 
 ---
 <div align="center">
